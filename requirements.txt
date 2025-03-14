@@ -1,0 +1,11 @@
+SpeechRecognition
+pyttsx3
+DateTime
+web-browser
+wikipedia
+requests
+pyaudio
+pyautogui
+pywhatkit
+pynput
+beautifulsoup4
